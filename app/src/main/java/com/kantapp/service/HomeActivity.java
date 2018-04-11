@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
 import android.widget.Button;
-import android.widget.LinearLayout;
+
+import com.kantapp.service.Service.NewService;
 
 /**
  * Created by Android A on 4/11/2018.

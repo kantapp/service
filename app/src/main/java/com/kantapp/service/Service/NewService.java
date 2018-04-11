@@ -1,4 +1,4 @@
-package com.kantapp.service;
+package com.kantapp.service.Service;
 
 import android.app.Service;
 import android.content.Intent;
